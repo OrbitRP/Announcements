@@ -1,6 +1,3 @@
 # Announcements
 This is are Announcement system
-
-
-
-TEST
+1
